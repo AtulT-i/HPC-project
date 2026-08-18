@@ -1,4 +1,4 @@
-# HPC Project: Parallelizing Neural Network Operations using Sequential, OpenMP, and CUDA
+# HPC Project: Parallelizing Complex Operations using Sequential, OpenMP, and CUDA
 
 ## Overview
 
